@@ -13,6 +13,9 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
             System.out.println("esta linea está sustituyendo a la anterior");
+            System.out.println("Primera linea");
+            System.out.println("Segunda linea");
+            System.out.println("Tercera linea");
         }
     }
 }
