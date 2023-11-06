@@ -20,6 +20,10 @@ public class Main {
             System.out.println("Cuarta linea");
             System.out.println("Quinta linea");
             System.out.println("Sexta linea");
+
+            System.out.println("septima linea");
+            System.out.println("Octava linea");
+            System.out.println("Novena linea");
         }
     }
 }
