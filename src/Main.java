@@ -16,6 +16,10 @@ public class Main {
             System.out.println("Primera linea");
             System.out.println("Segunda linea");
             System.out.println("Tercera linea");
+
+            System.out.println("Cuarta linea");
+            System.out.println("Quinta linea");
+            System.out.println("Sexta linea");
         }
     }
 }
